@@ -66,7 +66,7 @@ struct KeyboardView: View {
         if mode == .letters {
             VStack (spacing: 0) {
                 HStack(spacing: 0) {
-                    MakeKBBtn(label: "q")
+                    MakeKBBtn(label: "ض")
                     MakeKBBtn(label: "w")
                     MakeKBBtn(label: "e")
                     MakeKBBtn(label: "r")
